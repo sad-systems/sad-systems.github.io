@@ -2,6 +2,6 @@
 
 Routing point for SAD-Systems company sites.
 
-## Company site main page
+## Links
 
-[https://sadspace.ru](https://sadspace.ru)
+  * [Company site main page](https://sad-systems.github.io)
